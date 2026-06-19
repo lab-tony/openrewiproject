@@ -22,12 +22,6 @@
   }
 }
 
-.or-main {
-  max-width: calc(800 / 16 * 1rem);
-  margin: calc(20 / 16 * 1rem) auto;
-  padding: 0 calc(20 / 16 * 1rem);
-}
-
 .or-footer {
   background-color: #f8f9fa;
   padding: calc(10 / 16 * 1rem);
