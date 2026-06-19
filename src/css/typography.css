@@ -181,7 +181,7 @@ body {
   a {
     color: var(--color-accent);
     text-decoration: none;
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid currentColor;
     transition: border-color 0.2s ease;
   }
 
