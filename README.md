@@ -25,7 +25,7 @@ Repository, Insatallation und Verwendung von Node-Paketen mit NPM.
 
 ## TypeScript
 
-Typensicherer Verwendung von JavaScript.
+Typensichere Verwendung von JavaScript.
 
 ## React
 
