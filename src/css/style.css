@@ -1,7 +1,3 @@
-body {
-  font-family: "Arial";
-}
-
 .or-header {
   background-color: #f8f9fa;
   padding: calc(20 / 16 * 1rem);
@@ -21,6 +17,8 @@ body {
 
   a {
     color: #007bff;
+    font-family: var(--font-cond-bold);
+    letter-spacing: 0.05em;
   }
 }
 
