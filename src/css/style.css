@@ -5,10 +5,12 @@
 }
 
 .or-logo {
-  width: calc(300 / 16 * 1rem);
+  display: inline;
+  width: 100%;
+  max-width: calc(300 / 16 * 1rem);
   height: auto;
-  margin-bottom: calc(32 / 16 * 1rem);
-  padding: 1rem;
+  margin-bottom: var(--space-xl);
+  padding: var(--space-m);
 }
 
 .or-nav-item {
